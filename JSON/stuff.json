@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "jake",
+    "age" : 17,
+    "cool?" : "yes"
+  },
+  {
+    "name" : "Kat",
+    "age" : 17,
+    "cool?" : "Sure"
+  },
+  {
+    "name" : "Ashley",
+    "age" : 18,
+    "cool?" : "maybe"
+  }
+]
